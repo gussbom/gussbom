@@ -1,5 +1,8 @@
 ### Hey 👋, I'm Augustine E. Onaodowan, you can also call me gusbom. 😄
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
+[![LinkedIn Follow](https://img.shields.io/linkedin/follow/gussbom?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/augustine-onaodowan/)
+
 ### I'm a passionate Software Engineer & Freelancer From Nigeria. In my free time I enjoy Sports, Volunteering & Community Development.
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -18,8 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  [![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
-  [![LinkedIn Follow](https://img.shields.io/linkedin/follow/gussbom?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/augustine-onaodowan/)
 <a href="https://www.linkedin.com/in/augustine-onaodowan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
 <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
