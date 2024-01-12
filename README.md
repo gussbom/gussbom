@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gussbom](https://github.com/gussbom)
+- 👨‍💻 All of my projects are available at GitHub 🚀
 
 - 💬 Ask me about **Java, Spring, Kotlin, Ktor**
 
