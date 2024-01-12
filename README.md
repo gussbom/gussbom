@@ -1,7 +1,8 @@
 ### Hey 👋, I'm Augustine E. Onaodowan, you can also call me gusbom. 😄
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
-[![LinkedIn Follow](https://img.shields.io/linkedin/follow/augustine-onaodowan?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/augustine-onaodowan/)
+[![LinkedIn Follow](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/augustine-onaodowan/)
+
 
 
 ### I'm a passionate Software Engineer & Freelancer From Nigeria. In my free time I enjoy Sports, Volunteering & Community Development.
