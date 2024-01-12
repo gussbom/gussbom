@@ -1,30 +1,11 @@
-### Hello 👋, I'm Augustine.
+### Hey 👋, I'm Augustine E. Onaodowan, you can also call me gusbom. 😄
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
-
-<!--
-**gussbom/gussbom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on an event management application...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### Hey Everyone 👋, I'm Augustine E. Onaodowan, you can also call me gusbom. 😄
-
-<h3 align="center">I'm a passionate Software Engineer & Freelancer From Nigeria. In my free time I enjoy Sports, Volunteering & Community Development</h3>
+### I'm a passionate Software Engineer & Freelancer From Nigeria. In my free time I enjoy Sports, Volunteering & Community Development.
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gussbom&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
+- 🔭 I’m currently working on **Microservices with SpringBoot,Docker,Kubernetes**
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
@@ -37,6 +18,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  [![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
+  [![LinkedIn Follow](https://img.shields.io/linkedin/follow/gussbom?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/augustine-onaodowan/)
 <a href="https://www.linkedin.com/in/augustine-onaodowan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
 <a href="https://instagram.com/devopsshack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC1XLb_DoX2eNWGKjkh2epwA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
