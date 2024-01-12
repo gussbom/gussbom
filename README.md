@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hey Everyone 👋, I'm Augustine E. Onaodowan, you can also call me gusbom. 😄
-<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
+
 <h3 align="center">I'm a passionate Software Engineer & Freelancer From Nigeria. In my free time I enjoy Sports, Volunteering & Community Development</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
