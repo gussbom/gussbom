@@ -13,7 +13,7 @@
 
 [![GitHub Repositories](https://img.shields.io/badge/Explore%20all%20of%20my%20projects%20on-GitHub-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=333)](https://github.com/gussbom?tab=repositories)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
+[![Twitter Follow](https://img.shields.io/twitter/follow%me%X/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
 
 [![LinkedIn Follow](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/augustine-onaodowan/)
 
