@@ -5,16 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gussbom&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
+- 💬 Ask me about **Java, Spring, Kotlin, Ktor**
+  
 - 🔭 I’m currently working on **Microservices with SpringBoot,Docker,Kubernetes**
 
 - 🌱 I’m currently learning **DevSecOps & Cloud Devops**
 
-- 👨‍💻 Check out all of my projects on 👉 [![GitHub Repositories](https://img.shields.io/badge/Explore%20all%20of%20my%20projects%20on-GitHub-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=333)](https://github.com/gussbom?tab=repositories)
-
-
-- 💬 Ask me about **Java, Spring, Kotlin, Ktor**
-
-- 📫 You can reach me on👇🏽
+[![GitHub Repositories](https://img.shields.io/badge/Explore%20all%20of%20my%20projects%20on-GitHub-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=333)](https://github.com/gussbom?tab=repositories)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
 
