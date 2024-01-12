@@ -13,10 +13,12 @@
 
 - 💬 Ask me about **Java, Spring, Kotlin, Ktor**
 
-- 📫 How to reach me **ae.onaodowan@gmail.com**
+- 📫 You can reach me on 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
+
 [![LinkedIn Follow](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/augustine-onaodowan/)
+
 [![Email me](https://img.shields.io/badge/Email%20me-ae.onaodowan%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:ae.onaodowan@gmail.com)
 
 
