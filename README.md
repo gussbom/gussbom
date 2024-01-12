@@ -1,11 +1,11 @@
 ### Hey 👋, I'm Augustine E. Onaodowan, you can also call me gusbom. 😄
 
-### I'm a passionate Software Engineer & Freelancer From Nigeria. In my free time I enjoy Sports, Volunteering & Community Development.
+### I'm a Software Engineer & Freelancer From Nigeria. In my free time I enjoy Sports, Volunteering & Community Development.
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gussbom&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
 
-- 💬 Ask me about **Java, Spring, Kotlin, Ktor**
+- 💬 Let's talk about **Java, Spring, Kotlin, Ktor**
   
 - 🔭 I’m currently working on **Microservices with SpringBoot,Docker,Kubernetes**
 
