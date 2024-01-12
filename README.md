@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ae.onaodowan@gmail.com**
 
-
-<h3 align="left">Connect with me:</h3>
 [![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
 [![LinkedIn Follow](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/augustine-onaodowan/)
 
