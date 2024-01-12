@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java, Spring, Kotlin, Ktor**
 
-- 📫 You can reach me on 
+- 📫 You can reach me on👇🏽
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/gussbom?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/gussbom)
 
